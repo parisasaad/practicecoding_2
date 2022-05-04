@@ -13,3 +13,12 @@ Division = Task_1 / Task_2
 print ("addition: " , addition)
 print ("Distributive_property: " , Distributive_property)
 print ("Division: " , Division)
+############Kamyar############3
+Task_3 = int(input("Enter your Third variable: "))
+addition = addition + Task_3
+Distributive_property = 2*Distributive_property *(Distributive_property - Task_3)
+Division = Distributive_property / Task_3
+
+print ("addition made by peer: " , addition)
+print ("Distributive_property  made by peer: " , Distributive_property)
+print ("Division  made by peer: " , Division)
